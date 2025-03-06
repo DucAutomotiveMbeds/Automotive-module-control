@@ -1,3 +1,7 @@
+/*
+@@Author: Nguyen Minh Duc
+@@Date: 7/3/2025
+*/
 #include <stdio.h>
 #include "function_handler.h"
 #include "module_manager.h"
